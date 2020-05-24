@@ -1,0 +1,73 @@
+.get-started {
+    margin: 9em;
+}
+
+Link {
+    text-decoration: none;
+}
+
+.outer-container {
+    background-color: #b2b5bd;
+}
+
+button {
+    margin: 0 auto !important;
+    display: block !important;
+}
+
+.name {
+    font-family: 'Poppins', sans-serif;
+    font-size: 760%;
+    text-align: center;
+    color: #ffffff;
+}
+
+.subtext {
+    padding: 4%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 200%;
+    text-align: center;
+    color: #d4d4d4;
+}
+
+#intro {
+    width: 100%;
+    height: 320vh;
+    background: #2660a4;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-size: cover;
+    position: relative;
+}
+
+@media (min-width: 1024px) {
+    #intro {
+        background-attachment: fixed;
+    }
+}
+
+.left-side {
+    margin-left: 5%;
+    margin-top: 10%;
+    font-family: 'Muli', sans-serif;
+}
+
+.right-side {
+    margin-right: 4%;
+    margin-top: 4%;
+}
+
+.caption {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    color: #e8e8e8;
+    font-size: 250%;
+    margin: 5%;
+}
+
+.sub-caption {
+    font-family: 'Lato', sans-serif;
+    color: rgb(194, 194, 194);
+    font-size: 150%;
+    margin: 5%;
+}
