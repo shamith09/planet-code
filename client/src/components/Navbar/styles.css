@@ -1,0 +1,11 @@
+#navbarBasicExample {
+    background-color: #363636;
+}
+
+.navbar-item {
+    color: white !important;
+}
+
+a {
+    text-decoration: none !important;
+}
